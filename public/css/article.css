@@ -1,0 +1,33 @@
+.article_category {
+    padding-left: 50px;
+}
+
+.article_title {
+    padding-left: 100px;
+}
+
+.article_header {
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding: 50px;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.block {
+    width: 70%;
+    display: inline-block;
+}
+
+.block2 {
+    width: 20%;
+    display: inline-block;
+    text-align: right;
+}
